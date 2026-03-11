@@ -1,4 +1,4 @@
-# Hi, I'm Kai 👋
+# Hi, I'm Jordi Gallardo 👋
 
 Frontend Developer focused on building modern web applications with **React** and **TypeScript**.
 
