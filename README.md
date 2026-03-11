@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kai 👋
 
-<!--
-**KaiGlyph/Kaiglyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications with **React** and **TypeScript**.
 
-Here are some ideas to get you started:
+💻 I enjoy creating real-world applications with:
+- Authentication systems
+- API integrations
+- Dynamic UI and dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Experience with:
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Power Apps
+- Power Automate
+
+🚀 Currently looking for opportunities as a **Junior Frontend Developer**.
+
+🌐 Portfolio  
+https://kaiglyph.github.io/Portfolio/
