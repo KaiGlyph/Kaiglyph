@@ -18,7 +18,3 @@ Experience with:
 
 Portfolio  
 https://kaiglyph.github.io/Portfolio/
-
-# GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaiGlyph&theme=dark)](https://git.io/streak-stats)
