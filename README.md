@@ -1,13 +1,13 @@
-# Hi, I'm Jordi Gallardo 👋
+# Hi, I'm Jordi Gallardo
 
 Frontend Developer focused on building modern web applications with **React** and **TypeScript**.
 
-💻 I enjoy creating real-world applications with:
+I enjoy creating real-world applications with:
 - Authentication systems
 - API integrations
 - Dynamic UI and dashboards
 
-⚡ Experience with:
+Experience with:
 - React
 - TypeScript
 - JavaScript
@@ -15,7 +15,10 @@ Frontend Developer focused on building modern web applications with **React** an
 - Power Apps
 - Power Automate
 
-🚀 Currently looking for opportunities as a **Junior Frontend Developer**.
 
-🌐 Portfolio  
+Portfolio  
 https://kaiglyph.github.io/Portfolio/
+
+# GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaiglyph&theme=dark)](https://git.io/streak-stats)
